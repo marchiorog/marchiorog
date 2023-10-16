@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/marchiorog">
-  <img width="42%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchiorog&layout=compact&langs_count=7&theme=dark"/>
-  <img width="50%"  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marchiorog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="42%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarchioro&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%"  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMarchioro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 🦾 Skills:
