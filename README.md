@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá! Me chamo Guilherme Marchioro 🤖
 
-<!--
-**marchiorog/marchiorog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-> 🔭 Trabalhando com Xamarin | .Net Maui | C#
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/marchiorog">
+  <img width="42%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchiorog&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%"  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marchiorog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦾 Skills:
+<br>
+<br>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg"/>
+<img height ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img height ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />    
+
+## Contato:
+
+<div>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+          
+
+
+
+
