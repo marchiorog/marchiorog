@@ -1,6 +1,6 @@
 ### Olá! Me chamo Guilherme Marchioro 🤖
 
--> 🔭 Trabalhando com Xamarin | .Net Maui | C#
+-> 🔭 Desenvolvedor de Software com foco em aplicações mobile. Trabalhando com C# | .NET | Xamarin Forms | .NET Maui 
 
 <div>
   <a href="https://github.com/marchiorog">
