@@ -1,6 +1,6 @@
-### Olá! Me chamo Guilherme Marchioro 🤖
+### Hello, my name is Guilherme Marchioro! 🤖
 
--> 👨‍💻 Desenvolvedor de Software. 
+-> 👨‍💻 Software Developer. 
 
 <div>
   <a href="https://github.com/marchiorog">
@@ -19,7 +19,7 @@
   <img height ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-## Contato:
+## Contact:
 
 <div>
 <a href="https://www.linkedin.com/in/guilhermedenonimarchioro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
