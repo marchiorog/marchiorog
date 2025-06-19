@@ -1,6 +1,6 @@
 ### Hello, my name is Guilherme De Noni Marchioro! 🤖
 
--> 👨‍💻 full stack developer. 
+-> 👨‍💻 full stack developer web/mobile. 
 
 <div>
   <a href="https://github.com/marchiorog">
